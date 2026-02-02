@@ -47,7 +47,7 @@ function Header() {
               <button onClick={() => scrollToSection('structure')} className="text-right hover:text-[var(--primary-color)]">الهيكلة</button>
               <button onClick={() => scrollToSection('branches')} className="text-right hover:text-[var(--primary-color)]">المكاتب الفرعية</button>
               <button onClick={() => scrollToSection('activities')} className="text-right hover:text-[var(--primary-color)]">الأنشطةوالفعاليات</button>
-              <button onClick={() => window.open("https://forms.gle/BXCx11URXUCPCoTk8","_blank")} className="text-right hover:text-[var(--primary-color)]">انضم إلينا </button>
+              <button onClick={() => scrollToSection('contact')} className="text-right hover:text-[var(--primary-color)]">انضم إلينا </button>
             </nav>
           )}
         </div>
