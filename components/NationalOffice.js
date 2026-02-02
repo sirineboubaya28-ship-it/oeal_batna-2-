@@ -11,7 +11,7 @@ function NationalOffice() {
                 <div className="relative">
                   <div className="absolute -inset-3 bg-gradient-to-r from-green-200 to-green-100 rounded-full blur-lg opacity-50"></div>
                   <img 
-                    src="images/np.jpeg" 
+                    src="./images/np.jpeg" 
                     alt="فاتح سريبلي" 
                     className="relative w-48 h-48 rounded-full object-cover border-4 border-[var(--primary-color)] shadow-2xl"
                   />
