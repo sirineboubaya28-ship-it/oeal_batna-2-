@@ -58,7 +58,7 @@ function BranchOffices() {
         name: "معهد علوم وتقنيات النشاطات البدنية والرياضية    ",
         icon: "shield-check",
         president: {
-          name: " فايز نموشي",
+          name: " نموشي فايز",
           phone: "+213 555 200 007",
           image: "images/prestaps.jpg"
         }
