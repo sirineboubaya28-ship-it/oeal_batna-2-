@@ -58,7 +58,7 @@ function BranchOffices() {
         name: "معهد علوم وتقنيات النشاطات البدنية والرياضية    ",
         icon: "shield-check",
         president: {
-          name: " فايز ",
+          name: " فايز نموشي",
           phone: "+213 555 200 007",
           image: "images/prestaps.jpg"
         }
@@ -70,7 +70,7 @@ function BranchOffices() {
         icon: "languages",
         president: {
           name: "العايب بسملة ",
-          phone: "+213 555 200 009",
+         
           image: "images/fille.png"
         }
       },
