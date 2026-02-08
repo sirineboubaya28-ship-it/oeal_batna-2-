@@ -21,7 +21,7 @@ function OrgStructure() {
       { name: 'قشي عبد الحليم', position: 'مسؤول الثانويين', phone: '+213 794 025 882', image: 'images/member4.jpg' },
       { name: ' بلفراق عبد المومن ', position: 'مسؤول التخطيط والاستشراف', phone: '+213 650 048 537', image: 'images/member8.jpg' },
       { name: 'دحماني خالد ', position: 'عضو ', phone: '+213 698 835 828', image: 'images/member6.jpg' },
-      { name: 'عيشي باسم', position: 'عضو  ', phone: '+213 674 351 317 ', image: 'images/member3.jpg' },
+      { name: 'عيشي باسم', position: 'عضو  ', phone: '+213 674 351 317 ', image: 'images/member3.jpeg' },
       
       
     ];
