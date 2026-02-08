@@ -17,7 +17,7 @@ function BranchOffices() {
         name: "كلية الإعلام الآلي والرياضيات",
         icon: "cpu",
         president: {
-          name: "دادة عماد  ",
+          name: "دادة أحمد عبد الرحيم  ",
           phone: "+213 555 200 001",
           image: "images/preinfo.jpg"
         }
@@ -52,6 +52,18 @@ function BranchOffices() {
           image: "images/prehse.jpg"
         }
       },
+      
+       {
+        id: "college-staps",
+        name: "معهد علوم وتقنيات النشاطات البدنية والرياضية    ",
+        icon: "shield-check",
+        president: {
+          name: " فايز ",
+          phone: "+213 555 200 007",
+          image: "images/prestaps.jpg"
+        }
+      },
+      
       {
         id: "college-languages",
         name: "كلية اللغات",
@@ -80,7 +92,7 @@ function BranchOffices() {
         icon: "building",
         president: {
           name: "بلفراق عبد المومن  ",
-          phone: "+213 555 200 013",
+          phone: "+213 656 044 637",
           image: "images/fes1.jpg"
         }
       },
@@ -90,7 +102,7 @@ function BranchOffices() {
         icon: "building-2",
         president: {
           name: "علول مروة  ",
-          phone: "+213 555 200 015",
+
           image: "images/fille.png"
         }
       },
